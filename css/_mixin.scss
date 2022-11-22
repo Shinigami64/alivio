@@ -1,0 +1,6 @@
+@mixin waw ($c:red, $f:2em) {
+    width: fit-content;
+    color: $c;
+    font-size: $f;
+    
+}
